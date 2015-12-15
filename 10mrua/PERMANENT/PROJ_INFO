@@ -1,0 +1,8 @@
+name: UTM
+proj: utm
+ellps: wgs84
+a: 6378137.0000000000
+es: 0.0066943800
+f: 298.2572235630
+zone: 1
+south: defined
